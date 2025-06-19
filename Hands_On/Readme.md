@@ -50,7 +50,3 @@ Refer to the **Excel file** `DN 4.0 - Java FSE Mandatory hands-on detail.xlsx` f
 
 ---
 
-## 🙌 Happy Learning!
-
-These hands-on tasks are intended to bridge theory with practice and help you become confident in Java development.  
-Feel free to explore, modify, and extend the examples as you grow your skills! 💻✨
